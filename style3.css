@@ -15,10 +15,6 @@ padding: 20px;
 body{
     background-color: #a80e72;
 }
-p:hover {
-    text-decoration: underline;
-    color: rgb(255, 0, 132);
-      }
     a{
         text-decoration: 0;
         color: aliceblue;
@@ -29,6 +25,8 @@ p:hover {
         color: #ffffff;
         background-color: #0000005b;
         border-radius: 10px;
+        text-decoration: underline;
+    color: rgb(255, 0, 132);
     }
     
     
