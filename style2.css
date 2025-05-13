@@ -5,15 +5,15 @@
 }
 
 header{
-    background-color: #c661c4;
+    background-color: #c3007f;
     
 }
 nav{
-    background-color: #c661c4;
+    background-color: #c3007f;
 padding: 20px;
 }
 body{
-    background-color: #6d166c;
+    background-color: #9d5684;
 }
 p:hover {
     text-decoration: underline;

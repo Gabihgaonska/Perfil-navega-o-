@@ -5,20 +5,20 @@
 }
 
 header{
-    background-color: #c661c4;
+    background-color: #680d48;
     
 }
 nav{
-    background-color: #c661c4;
+    background-color: #680d48;
 padding: 20px;
 }
 body{
-    background-color: #6d166c;
+    background-color: #a80e72;
 }
 p:hover {
     text-decoration: underline;
-    color: rgb(255, 0, 132)
-    ;  }
+    color: rgb(255, 0, 132);
+      }
     a{
         text-decoration: 0;
         color: aliceblue;
@@ -30,4 +30,5 @@ p:hover {
         background-color: #0000005b;
         border-radius: 10px;
     }
+    
     
